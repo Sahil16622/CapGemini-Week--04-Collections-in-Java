@@ -1,0 +1,1 @@
+This section contains informations and learnings related to collections in java.
